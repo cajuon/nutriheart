@@ -29,3 +29,4 @@
   - [API of food lists with their calorie amounts](https://cajuon.github.io/data/fooditems.json)
 - HTTP Library to fetch json data online
 - Firebase for authentication
+- Firebase Cloud Firestore for storing user details
