@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "469310173606",
+    "project_id": "nutriheart-b2591",
+    "storage_bucket": "nutriheart-b2591.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469310173606:android:3ef9e15fbba37807b81f67",
+        "android_client_info": {
+          "package_name": "com.example.nutriheart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469310173606-g2modvml0i79j5s53tjmm7o628o51odr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2FAILyTjHMryz6iwZI5LclPHZ7fwPwp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469310173606-g2modvml0i79j5s53tjmm7o628o51odr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
